@@ -1,16 +1,41 @@
-## Hi there 👋
+### Hi there 👋 I'm Rohit!
 
-<!--
-**Rohit-rk07/Rohit-rk07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate full-stack developer & blockchain enthusiast from India.  
+🎓 B.Tech CSE @ MRCET | 3rd Year  
+🧠 Currently learning **AI**, **Web3**, and practicing **DSA on LeetCode**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- 💻 Languages: `Java`, `Python`, `JavaScript`, `C`, `SQL`
+- 🌐 Web: `HTML`, `CSS`, `React.js`, `Node.js`, `Tailwind CSS`
+- 🔗 Blockchain: `Solidity`, `Hardhat`, `Thirdweb`, `MetaMask`
+- 🔧 Tools: `Git`, `VSCode`, `Postman`, `Firebase`, `MongoDB`
+
+---
+
+### 🚀 Projects
+- [🔗 Real-time Chat App](#)
+- [🌐 Decentralized Crowdfunding DApp](#)
+- [📊 Crop Disease Prediction Model – SIH](#)
+
+---
+
+### 🧠 I’m Currently Learning:
+- 📚 AI & Machine Learning
+- 📘 Advanced React & Firebase
+- 🤝 Contributing to Open Source
+
+---
+
+### 📈 GitHub Stats
+
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-rk-07&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-rk-07&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rohit-profile)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/Rohit_rk_07/)
