@@ -28,4 +28,3 @@
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohit-37652b25a/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Rohit_rk_07/)
