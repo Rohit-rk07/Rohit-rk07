@@ -33,6 +33,10 @@
 
 ![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-rk07&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-rk07&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-rk07&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Rohit-rk07&theme=radical&no-frame=true&row=1)
+
+
 
 ---
 
