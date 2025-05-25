@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Rohit!
 
-🚀 A passionate full-stack developer & blockchain enthusiast from India.  
 🎓 B.Tech CSE @ MRCET | 3rd Year  
-🧠 Currently learning **AI**, **Web3**, and practicing **DSA on LeetCode**.
+
 
 ---
 
@@ -15,19 +14,6 @@
 
 ---
 
-### 🚀 Projects
-- [🔗 Real-time Chat App](#)
-- [🌐 Decentralized Crowdfunding DApp](#)
-- [📊 Crop Disease Prediction Model – SIH](#)
-
----
-
-### 🧠 I’m Currently Learning:
-- 📚 AI & Machine Learning
-- 📘 Advanced React & Firebase
-- 🤝 Contributing to Open Source
-
----
 
 ### 📈 GitHub Stats
 
