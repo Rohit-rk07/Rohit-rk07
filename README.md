@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Rohit!
 
-🎓 B.Tech CSE @ MRCET | 3rd Year  
+🎓 B.Tech CSE | 3rd Year  
 
 
 ---
