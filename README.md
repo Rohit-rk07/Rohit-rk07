@@ -1,8 +1,4 @@
-### Hi there 👋 I'm Rohit!
-
-🎓 B.Tech CSE | 3rd Year  
-
-
+### Hi there 👋  
 ---
 
 ### 🛠️ Tech Stack
