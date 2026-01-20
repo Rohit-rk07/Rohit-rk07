@@ -5,7 +5,6 @@
 
 - 💻 Languages: `Java`, `Python`, `JavaScript`, `C`, `SQL`
 - 🌐 Web: `HTML`, `CSS`, `React.js`, `Node.js`, `Tailwind CSS`
-- 🔗 Blockchain: `Solidity`, `Hardhat`, `Thirdweb`, `MetaMask`
 - 🔧 Tools: `Git`, `VSCode`, `Postman`, `Firebase`, `MongoDB`
 
 ---
