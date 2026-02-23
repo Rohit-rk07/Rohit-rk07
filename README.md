@@ -10,16 +10,7 @@
   </a>
 </p>
 
-## 🚀 Open Source Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohit-rk07&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rohit-rk07&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rohit-rk07&theme=tokyonight"/>
-</p>
 
 ## 📊 Contribution Dashboard
 
