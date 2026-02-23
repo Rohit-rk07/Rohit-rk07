@@ -12,21 +12,13 @@
 
 
 
-## 📊 Contribution Dashboard
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohit-rk07&theme=tokyonight"/>
-</p>
----
 
 ## 👨‍💻 About Me
 
 - 🎓 3rd Year B.Tech CSE Student  
-- 💡 Passionate about Full Stack, Blockchain & AI  
-- 🧠 Regular LeetCode Practitioner  
+- 💡 Passionate about Full Stack, & AI   
 - 🔥 Love building real-world scalable applications  
-- 📫 Reach me at: **rohit-37652b25a (LinkedIn)**  
-
 ---
 
 ## 🛠️ Tech Stack
