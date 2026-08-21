@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Explorer</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-37652b25a/">
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd Year B.Tech CSE Student  
+- 🎓 B.Tech CSE 
 - 💡 Passionate about Full Stack, & AI   
 - 🔥 Love building real-world scalable applications  
 ---
