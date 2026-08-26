@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
   </a>
   <a href="https://portfolio-six-silk-92utx9uqff.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=firefox&logoColor=white"/>
   </a>
   <a href="mailto:rohitchaudharyrk.25@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
@@ -15,14 +15,14 @@
 ---
 
 ### 🐛 Open Source — [Sugar Labs (Music Blocks)](https://github.com/sugarlabs/musicblocks/)
-- **15+ merged PRs** total → [see all](https://github.com/sugarlabs/musicblocks/pulls?q=is:pr+author:Rohit-rk07+is:merged)
+- **15+ merged PRs** → [see all](https://github.com/sugarlabs/musicblocks/pulls?q=is:pr+author:Rohit-rk07+is:merged)
 
 ---
 
-### ⚡ What i built
+### ⚡ My Projects
 
-| Project | What it does | Stack |
-|---|---|---|
+| Project | 
+|---|
 | **[WebForAll](https://github.com/Rohit-rk07/WebForAll-Web-accessibility-for-everyone)** |
 | **[RL-Comparison-Q-Learning-DQN](https://github.com/Rohit-rk07/RL-Comparison-Q-Learning-DQN)** |
 | **[sheet-mysql-sync](https://github.com/Rohit-rk07/sheet-mysql-sync)**|
